@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Allu-Allus
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alluajith29@gmail.com
 
 <!---
